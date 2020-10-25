@@ -23,17 +23,18 @@ Hardware Requirements:
  ##Processor – i3 and above
  
  Few steps involved are :
-  Data Collection
  
-  Data Preparation
+  1.Data Collection
+ 
+  2.Data Preparation
   
-  Handling Imbalanced datasets [8]
+  3.Handling Imbalanced datasets [8]
 		(Synthetic Minority Over-Sampling  Technique - SMOTE)
   
-  Model Building
+  4.Model Building
 		(Feature Selection/Extraction)
   
-  Apply ML algorithms
+  5.Apply ML algorithms
    (Logistic Regression, Random Forest)
    
 As usage of credit cards become more and more common in every field of the daily life, credit card fraud has become much more rampant. From the experiments, the result that has been concluded is that logistic regression has an accuracy of 97% while Random forest shows accuracy of 99%. The results obtained thus conclude that Random forest shows the most precise and high accuracy of 99% in the problem of credit card fraud detection with the dataset of European cardholders dataset.
